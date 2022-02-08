@@ -1,0 +1,40 @@
+* {
+  font-family: Poppins, sans-serif;
+}
+
+.header .menu .nav {
+  margin-top: 71px;
+}
+
+.header .menu .nav-link {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 30px;
+  color: #263238;
+}
+
+.header .menu .nav-link:hover {
+  color: blue;
+}
+
+.header .menu .nav .header_logo {
+  margin-right: 200px;
+}
+
+.header .menu .nav .menu_btn {
+  margin-top: -16px;
+  margin-left: 246px;
+  width: 220px;
+  height: 70px;
+  border: 2px solid #263238;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  border-radius: 5px;
+  background: #ffffff;
+}
+
+.header .promo {
+  margin-top: 101px;
+}
+/*# sourceMappingURL=style.min.css.map */
